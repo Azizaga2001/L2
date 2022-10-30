@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(185, 185, 185);
+}
+
+.card {
+    width: 400px;
+    height: 880px;
+    background: white;
+    border-radius: 40px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.Menu-icon {
+    font-size: 1.2em;
+    margin-left: -370px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.Seach-icon {
+    margin-left: 370px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.Furn-p {
+    margin-left: 60px;
+    margin-top: -20px;
+}
+
+.Name-cont {
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.Search-cont {
+    width: 360px;
+    height: 40px;
+    background: rgb(185, 185, 185);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.Search-icon-c {
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Search-p {
+    color: gray;
+    margin-top: -25px;
+    margin-left: 50px;
+}
+
+.action-cont {
+    width: 360px;
+    height: 200px;
+    background: black;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.Button-now-cont {
+    width: 120px;
+    height: 40px;
+    background: orange;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.book-now {
+    text-decoration: none;
+    color: white;
+    font-size: 0.8em;
+    margin-left: 15px;
+}
+
+.img-section {
+    width: 200px;
+    margin-left: 140px;
+    margin-top: -90px;
+}
+
+.section-name {
+    color: white;
+    margin-top: -100px;
+    margin-left: 10px;
+}
+
+.best-query {
+    color: white;
+    margin-top: 80px;
+    margin-left: 120px;
+}
+
+main{
+    position: absolute;
+}
+
+
+.img-Chair-div {
+    width: 120px;
+    margin-left: 20px;
+}
+
+.img-silver-div {
+    width: 150px;
+    margin-left: 200px;
+}
+
+.Price-Chair-one {
+    margin-left: 20px;
+}
+
+.Price-Chair-two {
+    margin-left: 220px;
+}
+
+.about-chair-one {
+    margin-left: 20px;
+}
+
+.about-chair-two {
+    margin-left: 220px;
+}
+
+.buy-chair-one {
+    color: gray;
+    margin-left: 20px;
+}
+
+.buy-chair-two {
+    color: gray;
+    margin-left: 220px;
+}
+
+.footer-menu-cont{
+    padding: 20px;
+    margin-top: 280px;
+}
+
+.footer-menu-container{
+    width: 360px;
+    height: 70px;
+    background: #000;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 60px;
+}
+
+.Home-icon{
+    font-size: 1.5em;
+    background: white;
+    margin-top: -10px;
+}
+
+.Play-icon{
+    font-size: 1.5em;
+    background: white;
+    margin-top: -10px;
+    margin-left: 120px;
+}
+
+.Favorite-icon-cont{
+    margin-top: -30px;
+}
+
+.Favorite-icon{
+    font-size: 1.5em;
+    background: white;
+    margin-left: 300px;
+}
+
+.Home-text{
+    color: white;
+    font-size: 0.7em;
+    margin-top: 10px;
+}
+
+.Video-text{
+    color: white;
+    font-size: 0.7em;
+    margin-top: -11px;
+    margin-left: 150px;
+}
+
+.Favorites-text{
+    color: white;
+    font-size: 0.7em;
+    margin-top: -11px;
+    margin-left: 290px;
+}
